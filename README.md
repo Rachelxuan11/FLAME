@@ -118,7 +118,7 @@ python main.py  --optimizer='dpsgd'\
       year={2020}
 }
 ```
-We refer to this [repo](https://github.com/BorjaBalle/ amplification-by-shuffling) contributed by the following paper for the numerical evaluation:
+We refer to this [repo](https://github.com/BorjaBalle/amplification-by-shuffling) contributed by the following paper for the numerical evaluation:
 ```
 @inproceedings{balle_privacy_2019,
   title={The privacy blanket of the shuffle model},
