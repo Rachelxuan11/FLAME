@@ -118,4 +118,14 @@ python main.py  --optimizer='dpsgd'\
       year={2020}
 }
 ```
-
+We refer to this [repo](https://github.com/BorjaBalle/ amplification-by-shuffling) contributed by the following paper for the numerical evaluation:
+```
+@inproceedings{balle_privacy_2019,
+  title={The privacy blanket of the shuffle model},
+  author={Balle, Borja and Bell, James and Gasc{\'o}n, Adri{\`a} and Nissim, Kobbi},
+  booktitle={Annual International Cryptology Conference},
+  pages={638--667},
+  year={2019},
+  organization={Springer}
+}
+```
