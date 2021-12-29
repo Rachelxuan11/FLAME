@@ -59,7 +59,7 @@ python main.py  --optimizer='dpsgd'\
                 --epsilon=0.237926\
                 --delta=5e-6\
                 --norm=0.886\
-                --mechanism='guassian'
+                --mechanism='gaussian'
 ```
 
 - LDP-FL: locally differentially private baseline
@@ -68,7 +68,7 @@ python main.py  --optimizer='ldpsgd'\
                 --epsilon=0.237926\
                 --delta=5e-6\
                 --norm=0.01\
-                --mechanism='guassian'
+                --mechanism='gaussian'
 ```
 
 - SS-Simple
